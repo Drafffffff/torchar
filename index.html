@@ -21,6 +21,8 @@
             <a-assets>
                 <a-asset-item
                     id="animated-asset"
+                    position='0 -6 -12' 
+                    rotation="-20 0 0"
                     src="assets/asset.gltf"
                 ></a-asset-item>
             </a-assets>
@@ -35,14 +37,6 @@
                 cursor="fuse: false; rayOrigin: mouse;"
                 id="markerA"
             >
-                <a-entity
-                    id="bowser-model"
-                    scale="0.01521396031399058 0.01521396031399058 0.01521396031399058"
-                    animation-mixer="loop: repeat"
-                    gltf-model="#animated-asset"
-                    class="clickable"
-                    gesture-handler
-                ></a-entity>
             </a-marker>
 
             <a-entity camera></a-entity>

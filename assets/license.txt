@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ikan Cupang
+* source:	https://sketchfab.com/3d-models/ikan-cupang-04404ebe815a4307a146da77c41d267f
+* author:	Cubic Studio (https://sketchfab.com/Cubic_Studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ikan Cupang" (https://sketchfab.com/3d-models/ikan-cupang-04404ebe815a4307a146da77c41d267f) by Cubic Studio (https://sketchfab.com/Cubic_Studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-image: url(assets/img/bg.png);
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  max-width: 700px;
+}
+
+.container .bg {
+  width: 100%;
+}
+
+.container .toplayer {
+  position: absolute;
+  width: 100vw;
+  top: 40vw;
+  -webkit-transform: translateX(5px);
+          transform: translateX(5px);
+}
+
+.container .toplayer .button {
+  display: block;
+  width: 220px;
+  height: 38px;
+  background-image: url(assets/img/buttonbg.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: auto;
+  text-decoration: none;
+}
+
+.container .toplayer .button p {
+  height: 100%;
+  line-height: 38px;
+  text-align: center;
+  -webkit-transform: translateX(-10px);
+          transform: translateX(-10px);
+  color: white;
+  font-size: 1.2rem;
+}
+/*# sourceMappingURL=style.css.map */

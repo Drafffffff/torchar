@@ -24,7 +24,7 @@ body {
 
 .container .toplayer .button {
   display: block;
-  width: 220px;
+  width: 200px;
   height: 38px;
   background-image: url(assets/img/buttonbg.png);
   background-size: contain;
@@ -34,11 +34,10 @@ body {
 }
 
 .container .toplayer .button p {
-  height: 100%;
   line-height: 38px;
   text-align: center;
-  -webkit-transform: translateX(-10px);
-          transform: translateX(-10px);
+  -webkit-transform: translateX();
+          transform: translateX();
   color: white;
   font-size: 1.2rem;
 }
